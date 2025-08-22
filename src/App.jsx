@@ -32,11 +32,11 @@ const StudyBuddyDashboard = () => {
   
   const examDates = {
     'English': 'Sept 11',
-    'Maths': 'Sept 13', 
-    'Science': 'Sept 15',
-    'SST': 'Sept 16',
-    'IT': 'Sept 20',
-    'Sanskrit': 'Sept 22'
+    'Science': 'Sept 13', 
+    'Sanskrit': 'Sept 15',
+    'Maths': 'Sept 18',
+    'Social Science': 'Sept 20',
+    'IT': 'Sept 22'
   };
 
   const motivationalQuotes = [
